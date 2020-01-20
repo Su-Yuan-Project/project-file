@@ -1,0 +1,9 @@
+/Users/ytr/Desktop/pushnext/project-file/Library/PlayerDataCache/Win64/Data** filter=lfs diff=lfs merge=lfs -text
+resources[[:space:]]2.assets filter=lfs diff=lfs merge=lfs -text
+resources.assets filter=lfs diff=lfs merge=lfs -text
+resources.assets[[:space:]]2.resS filter=lfs diff=lfs merge=lfs -text
+resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+sharedassets0[[:space:]]2.assets filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets[[:space:]]2.resS filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
